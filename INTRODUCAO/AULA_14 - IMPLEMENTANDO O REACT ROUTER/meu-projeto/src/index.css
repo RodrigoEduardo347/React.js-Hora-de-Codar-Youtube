@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: silver;
+}
+
+/* div {
+  margin: 15px auto;
+} */
+
+h1 {
+  background-color: darkgrey;
+  margin-bottom: 5px;
+}
+
+input {
+  padding:5px;
+}
+
+button {
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}

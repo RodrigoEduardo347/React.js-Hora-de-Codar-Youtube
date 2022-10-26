@@ -1,0 +1,22 @@
+.NavBarContainer {
+    background-color: rgb(95, 93, 93);
+    display: flex;
+    justify-content: right;
+    margin-top: 0;
+}
+
+.LiStyle {
+    list-style: none;
+    padding: 15px 15px 15px 15px;
+    text-transform: uppercase;
+    height: 100%;
+}
+
+.LiStyle:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.TextLink {
+    text-decoration: none;
+    color:white;    
+}
